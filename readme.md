@@ -29,7 +29,7 @@ KLIPY’s Meme API allows you to integrate a wide range of the world’s most fa
 ### 4. **Ads API**
 The **KLIPY Ads API** allows you to monetize your content by inserting ads into GIFs, stickers and clips. With this API, you can create a revenue stream by displaying targeted advertisements between content. It’s a perfect fit for developers looking to boost monetization while keeping the user experience smooth.
 
-- [Ads API Docs](https://docs.klipy.com/ads-api)
+- [Ads API Docs](https://docs.klipy.com/advertisements)
 
 ---
 
