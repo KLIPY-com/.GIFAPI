@@ -1,5 +1,7 @@
 # KLIPY API Overview
 
+![487793374_891614129680286_3781410314365677251_n (1)](https://github.com/user-attachments/assets/7343484d-939b-4394-95c2-13e0e0c7c17b)
+
 Welcome to the official GitHub repository for KLIPY's API products! KLIPY provides a range of powerful APIs that allow developers to integrate GIFs, Stickers, Clips and Ads seamlessly into their apps, websites, and platforms. Our APIs are built to enhance user engagement and enable monetization opportunities through ad integration. Whether you're building a messaging app, a social media platform, or a creative tool, KLIPY's APIs offer a scalable solution for delivering dynamic content.
 
 Explore our API offerings below:
@@ -21,15 +23,16 @@ The **KLIPY Clips API** lets you embed short video clips into your platform, enh
 
 - [Clip API Docs](https://docs.klipy.com/clips-api)
 
-### 3. **Memes API**
+### 4. **Memes API**
 KLIPY’s Meme API allows you to integrate a wide range of the world’s most famous and trending memes into your platform. With this API, users can search, preview, and share popular memes instantly, adding a touch of humor and relevance to their messaging or social experience. Whether it’s viral moments, iconic pop culture references, or current events, the Meme API helps you keep your content fresh and engaging with the internet's most relatable and shareable memes.
 
 - [Meme API Docs](https://docs.klipy.com/memes-api)
 
-### 4. **Ads API**
+### 5. **Ads API**
 The **KLIPY Ads API** allows you to monetize your content by inserting ads into GIFs, stickers and clips. With this API, you can create a revenue stream by displaying targeted advertisements between content. It’s a perfect fit for developers looking to boost monetization while keeping the user experience smooth.
 
 - [Ads API Docs](https://docs.klipy.com/advertisements)
+
 
 ---
 
